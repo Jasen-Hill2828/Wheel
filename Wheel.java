@@ -43,7 +43,7 @@ public class Wheel implements Runnable {
 				/*
 				 * This code is where the code interacts with Spark.
 				 */
-				FirstWheel.set(0.6);
+				FirstWheel.set(.8);
 				
 				
 			}
